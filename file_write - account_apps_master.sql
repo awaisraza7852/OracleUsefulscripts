@@ -43,3 +43,5 @@ EXCEPTION
       RAISE;
 END;
 /
+
+#compile this procedure, and execute, data fetched by query will be saved in file at mentioned location.
